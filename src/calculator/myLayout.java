@@ -26,7 +26,8 @@ public class myLayout extends JFrame{
 		
 		setLayout(new FlowLayout(FlowLayout.LEFT,0,0));
 		setBackground(Color.gray);
-		setSize(240, 390);
+		//setSize(240, 390);
+		setSize(256,409);
 
 		
 		Dimension btnSize = new Dimension(60,60); 
